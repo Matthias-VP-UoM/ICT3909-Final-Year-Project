@@ -6,14 +6,14 @@ The main aim of this project was to design and implement a facial emotion recogn
 ## Tested Models/Backends
 
 The Person Classification Process was evaluated by testing and comparing the results from the following 3 facial recognition models:
-- ArcFace
-- VGG-Face
-- FaceNet-512
+- **ArcFace**
+- **VGG-Face**
+- **FaceNet-512**
 
 The Emotion Classification Process was evaluated by testing and comparing the results from the following 3 backend detectors:
-- YOLOv8
-- RetinaFace
-- MTCNN
+- **YOLOv8**
+- **RetinaFace**
+- **MTCNN**
 
 Following the whole evaluation process, the combination of **FaceNet-512** for Person Classification and **MTCNN** for Emotion Classification achieved the best overall results. The final version of the implementation makes use of this combination.
 
@@ -28,8 +28,8 @@ This project primarily makes use of the following technologies in its implementa
 - **PyTube** (this project makes use of the **pytube-fix** package, which is a version of the main package which fixes some weird bugs)
 - **Numpy**
 - **Pandas**
-- **Translate** (for extracting names from video titles/author)
-- **Google Translate** (for extracting names from video descriptions)
-- **Spacy** (the model utilised is the **"en_core_web_trf"** English model, which can be installed by following this site: https://spacy.io/models/en#en_core_web_trf
+- **Translate** (for translating video titles/author)
+- **Google Translate** (for translating video descriptions)
+- **Spacy** (for extracting names) (the model utilised is the **"en_core_web_trf"** English model, which can be installed by following this site: https://spacy.io/models/en#en_core_web_trf
 - **Sckit-Learn** (for evaluating the classification processes)
 
