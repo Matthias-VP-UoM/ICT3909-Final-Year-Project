@@ -1,0 +1,32 @@
+{
+    "commercial_times": [
+        {
+            "start_time": "0:00:00",
+            "end_time": "0:03:04"
+        },
+        {
+            "start_time": "0:32:40",
+            "end_time": "0:33:11"
+        },
+        {
+            "start_time": "0:50:49",
+            "end_time": "0:51:48"
+        },
+        {
+            "start_time": "1:05:39",
+            "end_time": "1:06:47"
+        },
+        {
+            "start_time": "1:10:57",
+            "end_time": "1:11:30"
+        },
+        {
+            "start_time": "1:24:26",
+            "end_time": "1:25:01"
+        },
+        {
+            "start_time": "1:48:56",
+            "end_time": "1:49:09"
+        }
+    ]
+}

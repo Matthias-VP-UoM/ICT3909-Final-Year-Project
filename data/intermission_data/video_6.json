@@ -1,0 +1,36 @@
+{
+    "commercial_times": [
+        {
+            "start_time": "0:00:00",
+            "end_time": "0:04:01"
+        },
+        {
+            "start_time": "0:35:46",
+            "end_time": "0:36:04"
+        },
+        {
+            "start_time": "1:09:46",
+            "end_time": "1:10:23"
+        },
+        {
+            "start_time": "1:24:19",
+            "end_time": "1:25:52"
+        },
+        {
+            "start_time": "1:45:17",
+            "end_time": "1:45:52"
+        },
+        {
+            "start_time": "2:00:22",
+            "end_time": "2:00:57"
+        },
+        {
+            "start_time": "2:39:48",
+            "end_time": "2:40:40"
+        },
+        {
+            "start_time": "2:49:47",
+            "end_time": "2:50:01"
+        }
+    ]
+}
