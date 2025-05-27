@@ -3,6 +3,7 @@
 **Author:** Matthias Vassallo Pulis
 
 **Supervisor:** Dr Dylan Seychell
+<br>
 **Co-supervisor**: Dr Konstantinos Makantasis
 
 ## Project Overview
