@@ -57,7 +57,7 @@ This project primarily makes use of the following technologies in its implementa
 
 <b>**</b> Due to size constraints, the Videos Database is not hosted directly in this repository. The full Videos Database can be accessed by using the below Google Drive link.
 
-**NOTE: espite the above difficulties, all the facial ROI images from all the videos are still available in the repository, as they weren't affected by size contraints.**
+**NOTE: Despite the above difficulties, all the facial ROI images from all the videos are still available in the repository, as they weren't affected by size contraints.**
 
 ## Ethics & Data Usage
 
@@ -93,6 +93,6 @@ The contents of the provided zip files should be extracted and placed in the wor
 
 <i>Alternatively, the full Videos Database can be obtained by running the first part of the "video_data_extraction" notebook, while the full Video Frames Database can be extracted following this process by executing the first part of the "facial_image_extraction" notebook. This can be done as the list of video URLs that were used during the project's development is made available inside the **data** folder.</i>
 
-## Note
+## Important Note
 
 This was developed as part of the <b><i>ARI3333</i></b> study unit, which is titled <b><i>Final Year Project in Artificial Intelligence</i></b>. The project was submitted in partial fulfilment of the requirements for the B.Sc. in IT (Honours) (Artificial Intelligence) course at the University of Malta.
