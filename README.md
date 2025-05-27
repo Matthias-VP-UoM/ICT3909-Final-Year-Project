@@ -54,7 +54,7 @@ This project primarily makes use of the following technologies in its implementa
 - <b>videos_dt**</b> - The main videos database folder
 - <b>videos_dt_ml**</b> - A copy of the above videos database folder which was used to differentiate between Mark Laurence Zammit videos (Times Talk) and Jon Mallia videos. <i>This can be avoided when using the main part of the program</i>.
 
-- <b>*</b> Due to size constraints, only the frames from the videos used in the evaluation set can be seen in this repository. The full frames database can be accessed by using the below Google Drive link.
+<b>*</b> Due to size constraints, only the frames from the videos used in the evaluation set can be seen in this repository. The full frames database can be accessed by using the below Google Drive link.
 
 <b>**</b> Due to size constraints, the Videos Database is not hosted directly in this repository. The full Videos Database can be accessed by using the below Google Drive link.
 
