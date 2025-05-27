@@ -41,6 +41,7 @@ This project primarily makes use of the following technologies in its implementa
 
 ## Repository Structre
 
+### Folders
 - **data** - This folder contains the core data responsible for running the entire implementation, including video URLs lists, intermission data. It also stores the analysis results and the interviewer and interviewee names for each video.
 - **evaluation** - This folder contains the code, data and results generated from the evaluation process.
 - **experiment-data** - This folder contains the extra analysis results during testing, which was also used during evaluation.
@@ -53,11 +54,21 @@ This project primarily makes use of the following technologies in its implementa
 - <b>videos_dt**</b> - The main videos database folder
 - <b>videos_dt_ml**</b> - A copy of the above videos database folder which was used to differentiate between Mark Laurence Zammit videos (Times Talk) and Jon Mallia videos. <i>This can be avoided when using the main part of the program</i>.
 
-<b>*</b> Due to size constraints, only the frames from the videos used in the evaluation set can be seen in this repository. The full frames database can be accessed by using the below Google Drive link.
+- <b>*</b> Due to size constraints, only the frames from the videos used in the evaluation set can be seen in this repository. The full frames database can be accessed by using the below Google Drive link.
 
 <b>**</b> Due to size constraints, the Videos Database is not hosted directly in this repository. The full Videos Database can be accessed by using the below Google Drive link.
 
 **NOTE: Despite the above difficulties, all the facial ROI images from all the videos are still available in the repository, as they weren't affected by size contraints.**
+
+### Files
+- **1 - video_data_extraction.ipynb** - Downloads and stores interview videos from the URLs list in the **data** folder and extracts and stores interviewer and interviewee names for every downloaded video.
+- **2 - facial_image_extraction.ipynb** - The first part (Frame Extraction) Extracts and stores video frames from **all** the downloaded videos whilst the second part (Facial ROI Extraction) extracts images containing the region of the detected faces from the frames previously extracted from a **single** downloaded video.
+- **3 - person_and_emotion_classification.ipynb** - Performs person and emotion classification from a selected video and stores the results in the **data** folder.
+- **4.1 - visualisation_create_table.ipynb** - Converts the generated analysis results from a given video from JSON to CSV and utilises them to visualise the results.
+- **4.2 - visualisation_load_table.ipynb** - Similar to the above file but loads an already created CSV file instead of creating one from scratch.
+- **4.3 - frame_analysis.ipynb** - Provides a visual feedback of the video analysis results by inserting them into individual video frames.
+- **common_functionality.ipynb** - Contains any common functionality that is used throughout the code provided.
+- **face_rec.ipynb** - Used to load and preprocess images (taken from the face_recognition Python package, which is included in the requirements.txt file)
 
 ## Ethics & Data Usage
 
