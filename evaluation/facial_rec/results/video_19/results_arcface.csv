@@ -1,0 +1,5 @@
+﻿Metric,Value (Weighted),Value (Micro),Value(Macro)
+Accuracy,0.903949,0.903949,0.903949
+Precision,0.921965,0.903949,0.622433
+Recall,0.903949,0.903949,0.589464
+F1-Score,0.904287,0.903949,0.59957
