@@ -21,7 +21,7 @@ The Emotion Classification Process was evaluated by testing and comparing the re
 - **RetinaFace**
 - **MTCNN**
 
-Following the whole evaluation process, the combination of **FaceNet-512** for Person Classification and **MTCNN** for Emotion Classification achieved the best overall results. The final version of the implementation makes use of this combination.
+Following the whole evaluation process, the combination of **FaceNet-512** for Person Classification and **RetinaFace** for Emotion Classification achieved the best overall results. The final version of the implementation makes use of this combination.
 
 ## Main Technologies Used
 
