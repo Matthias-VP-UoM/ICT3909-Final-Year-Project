@@ -305,10 +305,10 @@
                 {
                     "roi_num": "frame_0008_00",
                     "facial_encoding": {
-                        "x": 90,
-                        "y": 126,
-                        "w": 44,
-                        "h": 59
+                        "x": 453,
+                        "y": 114,
+                        "w": 37,
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "happy",
@@ -329,10 +329,10 @@
                 {
                     "roi_num": "frame_0008_01",
                     "facial_encoding": {
-                        "x": 453,
-                        "y": 114,
-                        "w": 37,
-                        "h": 51
+                        "x": 90,
+                        "y": 126,
+                        "w": 44,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -941,10 +941,10 @@
                 {
                     "roi_num": "frame_0026_00",
                     "facial_encoding": {
-                        "x": 131,
-                        "y": 121,
-                        "w": 42,
-                        "h": 60
+                        "x": 426,
+                        "y": 125,
+                        "w": 37,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -965,10 +965,10 @@
                 {
                     "roi_num": "frame_0026_01",
                     "facial_encoding": {
-                        "x": 426,
-                        "y": 125,
-                        "w": 37,
-                        "h": 55
+                        "x": 131,
+                        "y": 121,
+                        "w": 42,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -1946,10 +1946,10 @@
                 {
                     "roi_num": "frame_0053_00",
                     "facial_encoding": {
-                        "x": 133,
-                        "y": 136,
-                        "w": 40,
-                        "h": 56
+                        "x": 421,
+                        "y": 123,
+                        "w": 38,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -1970,10 +1970,10 @@
                 {
                     "roi_num": "frame_0053_01",
                     "facial_encoding": {
-                        "x": 421,
-                        "y": 123,
-                        "w": 38,
-                        "h": 54
+                        "x": 133,
+                        "y": 136,
+                        "w": 40,
+                        "h": 56
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -2063,10 +2063,10 @@
                 {
                     "roi_num": "frame_0056_00",
                     "facial_encoding": {
-                        "x": 440,
-                        "y": 133,
-                        "w": 33,
-                        "h": 51
+                        "x": 139,
+                        "y": 127,
+                        "w": 41,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "angry",
@@ -2087,10 +2087,10 @@
                 {
                     "roi_num": "frame_0056_01",
                     "facial_encoding": {
-                        "x": 139,
-                        "y": 127,
-                        "w": 41,
-                        "h": 60
+                        "x": 440,
+                        "y": 133,
+                        "w": 33,
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -2204,10 +2204,10 @@
                 {
                     "roi_num": "frame_0059_00",
                     "facial_encoding": {
-                        "x": 128,
-                        "y": 133,
-                        "w": 41,
-                        "h": 57
+                        "x": 438,
+                        "y": 121,
+                        "w": 34,
+                        "h": 53
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -2228,10 +2228,10 @@
                 {
                     "roi_num": "frame_0059_01",
                     "facial_encoding": {
-                        "x": 438,
-                        "y": 121,
-                        "w": 34,
-                        "h": 53
+                        "x": 128,
+                        "y": 133,
+                        "w": 41,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -2259,9 +2259,9 @@
                 {
                     "roi_num": "frame_0060_00",
                     "facial_encoding": {
-                        "x": 449,
-                        "y": 121,
-                        "w": 37,
+                        "x": 117,
+                        "y": 123,
+                        "w": 44,
                         "h": 55
                     },
                     "person_classified": "interviewer",
@@ -2283,9 +2283,9 @@
                 {
                     "roi_num": "frame_0060_01",
                     "facial_encoding": {
-                        "x": 117,
-                        "y": 123,
-                        "w": 44,
+                        "x": 449,
+                        "y": 121,
+                        "w": 37,
                         "h": 55
                     },
                     "person_classified": "interviewee",
@@ -2813,10 +2813,10 @@
                 {
                     "roi_num": "frame_0076_00",
                     "facial_encoding": {
-                        "x": 133,
-                        "y": 144,
-                        "w": 36,
-                        "h": 53
+                        "x": 434,
+                        "y": 123,
+                        "w": 34,
+                        "h": 50
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "happy",
@@ -2837,10 +2837,10 @@
                 {
                     "roi_num": "frame_0076_01",
                     "facial_encoding": {
-                        "x": 434,
-                        "y": 123,
-                        "w": 34,
-                        "h": 50
+                        "x": 133,
+                        "y": 144,
+                        "w": 36,
+                        "h": 53
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -3126,10 +3126,10 @@
                 {
                     "roi_num": "frame_0085_00",
                     "facial_encoding": {
-                        "x": 110,
-                        "y": 127,
-                        "w": 48,
-                        "h": 55
+                        "x": 443,
+                        "y": 122,
+                        "w": 37,
+                        "h": 54
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -3150,10 +3150,10 @@
                 {
                     "roi_num": "frame_0085_01",
                     "facial_encoding": {
-                        "x": 443,
-                        "y": 122,
-                        "w": 37,
-                        "h": 54
+                        "x": 110,
+                        "y": 127,
+                        "w": 48,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -3181,10 +3181,10 @@
                 {
                     "roi_num": "frame_0086_00",
                     "facial_encoding": {
-                        "x": 116,
-                        "y": 134,
-                        "w": 39,
-                        "h": 57
+                        "x": 456,
+                        "y": 123,
+                        "w": 36,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -3205,10 +3205,10 @@
                 {
                     "roi_num": "frame_0086_01",
                     "facial_encoding": {
-                        "x": 456,
-                        "y": 123,
-                        "w": 36,
-                        "h": 55
+                        "x": 116,
+                        "y": 134,
+                        "w": 39,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -3470,10 +3470,10 @@
                 {
                     "roi_num": "frame_0093_00",
                     "facial_encoding": {
-                        "x": 125,
-                        "y": 141,
-                        "w": 40,
-                        "h": 55
+                        "x": 429,
+                        "y": 132,
+                        "w": 33,
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -3494,10 +3494,10 @@
                 {
                     "roi_num": "frame_0093_01",
                     "facial_encoding": {
-                        "x": 429,
-                        "y": 132,
-                        "w": 33,
-                        "h": 51
+                        "x": 125,
+                        "y": 141,
+                        "w": 40,
+                        "h": 55
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -3673,10 +3673,10 @@
                 {
                     "roi_num": "frame_0098_00",
                     "facial_encoding": {
-                        "x": 154,
+                        "x": 437,
                         "y": 121,
-                        "w": 40,
-                        "h": 59
+                        "w": 39,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -3697,10 +3697,10 @@
                 {
                     "roi_num": "frame_0098_01",
                     "facial_encoding": {
-                        "x": 437,
+                        "x": 154,
                         "y": 121,
-                        "w": 39,
-                        "h": 56
+                        "w": 40,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -3945,10 +3945,10 @@
                 {
                     "roi_num": "frame_0106_00",
                     "facial_encoding": {
-                        "x": 151,
-                        "y": 131,
-                        "w": 39,
-                        "h": 56
+                        "x": 419,
+                        "y": 128,
+                        "w": 35,
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -3969,10 +3969,10 @@
                 {
                     "roi_num": "frame_0106_01",
                     "facial_encoding": {
-                        "x": 419,
-                        "y": 128,
-                        "w": 35,
-                        "h": 51
+                        "x": 151,
+                        "y": 131,
+                        "w": 39,
+                        "h": 56
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -4241,10 +4241,10 @@
                 {
                     "roi_num": "frame_0114_00",
                     "facial_encoding": {
-                        "x": 150,
-                        "y": 119,
-                        "w": 41,
-                        "h": 61
+                        "x": 422,
+                        "y": 125,
+                        "w": 36,
+                        "h": 52
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -4265,10 +4265,10 @@
                 {
                     "roi_num": "frame_0114_01",
                     "facial_encoding": {
-                        "x": 422,
-                        "y": 125,
-                        "w": 36,
-                        "h": 52
+                        "x": 150,
+                        "y": 119,
+                        "w": 41,
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -4599,10 +4599,10 @@
                 {
                     "roi_num": "frame_0124_00",
                     "facial_encoding": {
-                        "x": 140,
-                        "y": 124,
-                        "w": 40,
-                        "h": 60
+                        "x": 430,
+                        "y": 127,
+                        "w": 37,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -4623,10 +4623,10 @@
                 {
                     "roi_num": "frame_0124_01",
                     "facial_encoding": {
-                        "x": 430,
-                        "y": 127,
-                        "w": 37,
-                        "h": 54
+                        "x": 140,
+                        "y": 124,
+                        "w": 40,
+                        "h": 60
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -6217,10 +6217,10 @@
                 {
                     "roi_num": "frame_0170_00",
                     "facial_encoding": {
-                        "x": 112,
-                        "y": 128,
-                        "w": 43,
-                        "h": 61
+                        "x": 411,
+                        "y": 126,
+                        "w": 37,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -6241,10 +6241,10 @@
                 {
                     "roi_num": "frame_0170_01",
                     "facial_encoding": {
-                        "x": 411,
-                        "y": 126,
-                        "w": 37,
-                        "h": 54
+                        "x": 112,
+                        "y": 128,
+                        "w": 43,
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -6451,10 +6451,10 @@
                 {
                     "roi_num": "frame_0176_00",
                     "facial_encoding": {
-                        "x": 123,
-                        "y": 128,
-                        "w": 39,
-                        "h": 59
+                        "x": 418,
+                        "y": 127,
+                        "w": 37,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -6475,10 +6475,10 @@
                 {
                     "roi_num": "frame_0176_01",
                     "facial_encoding": {
-                        "x": 418,
-                        "y": 127,
-                        "w": 37,
-                        "h": 53
+                        "x": 123,
+                        "y": 128,
+                        "w": 39,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -6654,10 +6654,10 @@
                 {
                     "roi_num": "frame_0181_00",
                     "facial_encoding": {
-                        "x": 131,
-                        "y": 124,
-                        "w": 39,
-                        "h": 61
+                        "x": 428,
+                        "y": 123,
+                        "w": 37,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -6678,10 +6678,10 @@
                 {
                     "roi_num": "frame_0181_01",
                     "facial_encoding": {
-                        "x": 428,
-                        "y": 123,
-                        "w": 37,
-                        "h": 53
+                        "x": 131,
+                        "y": 124,
+                        "w": 39,
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -6802,10 +6802,10 @@
                 {
                     "roi_num": "frame_0185_00",
                     "facial_encoding": {
-                        "x": 119,
-                        "y": 125,
-                        "w": 40,
-                        "h": 60
+                        "x": 430,
+                        "y": 127,
+                        "w": 35,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -6826,10 +6826,10 @@
                 {
                     "roi_num": "frame_0185_01",
                     "facial_encoding": {
-                        "x": 430,
-                        "y": 127,
-                        "w": 35,
-                        "h": 53
+                        "x": 119,
+                        "y": 125,
+                        "w": 40,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -7160,10 +7160,10 @@
                 {
                     "roi_num": "frame_0195_00",
                     "facial_encoding": {
-                        "x": 114,
-                        "y": 122,
-                        "w": 44,
-                        "h": 59
+                        "x": 426,
+                        "y": 124,
+                        "w": 36,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -7184,10 +7184,10 @@
                 {
                     "roi_num": "frame_0195_01",
                     "facial_encoding": {
-                        "x": 426,
-                        "y": 124,
-                        "w": 36,
-                        "h": 53
+                        "x": 114,
+                        "y": 122,
+                        "w": 44,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "happy",
@@ -7793,10 +7793,10 @@
                 {
                     "roi_num": "frame_0212_00",
                     "facial_encoding": {
-                        "x": 102,
-                        "y": 134,
-                        "w": 40,
-                        "h": 60
+                        "x": 429,
+                        "y": 123,
+                        "w": 37,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -7817,10 +7817,10 @@
                 {
                     "roi_num": "frame_0212_01",
                     "facial_encoding": {
-                        "x": 429,
-                        "y": 123,
-                        "w": 37,
-                        "h": 56
+                        "x": 102,
+                        "y": 134,
+                        "w": 40,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -8223,10 +8223,10 @@
                 {
                     "roi_num": "frame_0224_00",
                     "facial_encoding": {
-                        "x": 110,
-                        "y": 131,
-                        "w": 37,
-                        "h": 60
+                        "x": 429,
+                        "y": 126,
+                        "w": 35,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -8247,10 +8247,10 @@
                 {
                     "roi_num": "frame_0224_01",
                     "facial_encoding": {
-                        "x": 429,
-                        "y": 126,
-                        "w": 35,
-                        "h": 53
+                        "x": 110,
+                        "y": 131,
+                        "w": 37,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -8580,10 +8580,10 @@
                 {
                     "roi_num": "frame_0238_00",
                     "facial_encoding": {
-                        "x": 117,
-                        "y": 124,
-                        "w": 38,
-                        "h": 60
+                        "x": 428,
+                        "y": 120,
+                        "w": 35,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -8604,10 +8604,10 @@
                 {
                     "roi_num": "frame_0238_01",
                     "facial_encoding": {
-                        "x": 428,
-                        "y": 120,
-                        "w": 35,
-                        "h": 56
+                        "x": 117,
+                        "y": 124,
+                        "w": 38,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "happy",
@@ -8807,10 +8807,10 @@
                 {
                     "roi_num": "frame_0243_00",
                     "facial_encoding": {
-                        "x": 116,
-                        "y": 134,
-                        "w": 40,
-                        "h": 58
+                        "x": 422,
+                        "y": 124,
+                        "w": 38,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "happy",
@@ -8831,10 +8831,10 @@
                 {
                     "roi_num": "frame_0243_01",
                     "facial_encoding": {
-                        "x": 422,
-                        "y": 124,
-                        "w": 38,
-                        "h": 56
+                        "x": 116,
+                        "y": 134,
+                        "w": 40,
+                        "h": 58
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -9027,10 +9027,10 @@
                 {
                     "roi_num": "frame_0249_00",
                     "facial_encoding": {
-                        "x": 90,
-                        "y": 125,
-                        "w": 43,
-                        "h": 62
+                        "x": 428,
+                        "y": 122,
+                        "w": 37,
+                        "h": 57
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -9051,10 +9051,10 @@
                 {
                     "roi_num": "frame_0249_01",
                     "facial_encoding": {
-                        "x": 428,
-                        "y": 122,
-                        "w": 37,
-                        "h": 57
+                        "x": 90,
+                        "y": 125,
+                        "w": 43,
+                        "h": 62
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -9142,10 +9142,10 @@
                 {
                     "roi_num": "frame_0254_00",
                     "facial_encoding": {
-                        "x": 106,
-                        "y": 123,
-                        "w": 42,
-                        "h": 62
+                        "x": 429,
+                        "y": 124,
+                        "w": 37,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -9166,10 +9166,10 @@
                 {
                     "roi_num": "frame_0254_01",
                     "facial_encoding": {
-                        "x": 429,
-                        "y": 124,
-                        "w": 37,
-                        "h": 54
+                        "x": 106,
+                        "y": 123,
+                        "w": 42,
+                        "h": 62
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -9431,10 +9431,10 @@
                 {
                     "roi_num": "frame_0261_00",
                     "facial_encoding": {
-                        "x": 420,
-                        "y": 122,
-                        "w": 39,
-                        "h": 55
+                        "x": 77,
+                        "y": 123,
+                        "w": 46,
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -9455,10 +9455,10 @@
                 {
                     "roi_num": "frame_0261_01",
                     "facial_encoding": {
-                        "x": 77,
-                        "y": 123,
-                        "w": 46,
-                        "h": 61
+                        "x": 420,
+                        "y": 122,
+                        "w": 39,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -9548,10 +9548,10 @@
                 {
                     "roi_num": "frame_0264_00",
                     "facial_encoding": {
-                        "x": 99,
-                        "y": 132,
-                        "w": 41,
-                        "h": 61
+                        "x": 425,
+                        "y": 122,
+                        "w": 38,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -9572,10 +9572,10 @@
                 {
                     "roi_num": "frame_0264_01",
                     "facial_encoding": {
-                        "x": 425,
-                        "y": 122,
-                        "w": 38,
-                        "h": 55
+                        "x": 99,
+                        "y": 132,
+                        "w": 41,
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -9665,10 +9665,10 @@
                 {
                     "roi_num": "frame_0267_00",
                     "facial_encoding": {
-                        "x": 112,
-                        "y": 131,
-                        "w": 40,
-                        "h": 60
+                        "x": 430,
+                        "y": 126,
+                        "w": 33,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -9689,10 +9689,10 @@
                 {
                     "roi_num": "frame_0267_01",
                     "facial_encoding": {
-                        "x": 430,
-                        "y": 126,
-                        "w": 33,
-                        "h": 53
+                        "x": 112,
+                        "y": 131,
+                        "w": 40,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -9844,10 +9844,10 @@
                 {
                     "roi_num": "frame_0272_00",
                     "facial_encoding": {
-                        "x": 112,
-                        "y": 128,
-                        "w": 39,
-                        "h": 61
+                        "x": 435,
+                        "y": 121,
+                        "w": 37,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -9868,10 +9868,10 @@
                 {
                     "roi_num": "frame_0272_01",
                     "facial_encoding": {
-                        "x": 435,
-                        "y": 121,
-                        "w": 37,
-                        "h": 53
+                        "x": 112,
+                        "y": 128,
+                        "w": 39,
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -9992,10 +9992,10 @@
                 {
                     "roi_num": "frame_0276_00",
                     "facial_encoding": {
-                        "x": 123,
-                        "y": 123,
-                        "w": 41,
-                        "h": 57
+                        "x": 429,
+                        "y": 116,
+                        "w": 35,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -10016,10 +10016,10 @@
                 {
                     "roi_num": "frame_0276_01",
                     "facial_encoding": {
-                        "x": 429,
-                        "y": 116,
-                        "w": 35,
-                        "h": 56
+                        "x": 123,
+                        "y": 123,
+                        "w": 41,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -10739,10 +10739,10 @@
                 {
                     "roi_num": "frame_0297_00",
                     "facial_encoding": {
-                        "x": 106,
-                        "y": 122,
-                        "w": 41,
-                        "h": 60
+                        "x": 418,
+                        "y": 124,
+                        "w": 35,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -10763,10 +10763,10 @@
                 {
                     "roi_num": "frame_0297_01",
                     "facial_encoding": {
-                        "x": 418,
-                        "y": 124,
-                        "w": 35,
-                        "h": 53
+                        "x": 106,
+                        "y": 122,
+                        "w": 41,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -10856,10 +10856,10 @@
                 {
                     "roi_num": "frame_0300_00",
                     "facial_encoding": {
-                        "x": 108,
-                        "y": 123,
-                        "w": 40,
-                        "h": 59
+                        "x": 422,
+                        "y": 125,
+                        "w": 38,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -10880,10 +10880,10 @@
                 {
                     "roi_num": "frame_0300_01",
                     "facial_encoding": {
-                        "x": 422,
-                        "y": 125,
-                        "w": 38,
-                        "h": 56
+                        "x": 108,
+                        "y": 123,
+                        "w": 40,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -10973,10 +10973,10 @@
                 {
                     "roi_num": "frame_0303_00",
                     "facial_encoding": {
-                        "x": 106,
-                        "y": 128,
-                        "w": 42,
-                        "h": 61
+                        "x": 422,
+                        "y": 124,
+                        "w": 37,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -10997,10 +10997,10 @@
                 {
                     "roi_num": "frame_0303_01",
                     "facial_encoding": {
-                        "x": 422,
-                        "y": 124,
-                        "w": 37,
-                        "h": 55
+                        "x": 106,
+                        "y": 128,
+                        "w": 42,
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -11090,10 +11090,10 @@
                 {
                     "roi_num": "frame_0306_00",
                     "facial_encoding": {
-                        "x": 112,
-                        "y": 141,
-                        "w": 40,
-                        "h": 55
+                        "x": 424,
+                        "y": 129,
+                        "w": 34,
+                        "h": 52
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -11114,10 +11114,10 @@
                 {
                     "roi_num": "frame_0306_01",
                     "facial_encoding": {
-                        "x": 424,
-                        "y": 129,
-                        "w": 34,
-                        "h": 52
+                        "x": 112,
+                        "y": 141,
+                        "w": 40,
+                        "h": 55
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -11355,10 +11355,10 @@
                 {
                     "roi_num": "frame_0313_00",
                     "facial_encoding": {
-                        "x": 108,
-                        "y": 130,
-                        "w": 42,
-                        "h": 60
+                        "x": 433,
+                        "y": 124,
+                        "w": 35,
+                        "h": 57
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "happy",
@@ -11379,10 +11379,10 @@
                 {
                     "roi_num": "frame_0313_01",
                     "facial_encoding": {
-                        "x": 433,
-                        "y": 124,
-                        "w": 35,
-                        "h": 57
+                        "x": 108,
+                        "y": 130,
+                        "w": 42,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -11644,10 +11644,10 @@
                 {
                     "roi_num": "frame_0322_00",
                     "facial_encoding": {
-                        "x": 100,
-                        "y": 134,
-                        "w": 41,
-                        "h": 60
+                        "x": 433,
+                        "y": 116,
+                        "w": 37,
+                        "h": 58
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -11668,10 +11668,10 @@
                 {
                     "roi_num": "frame_0322_01",
                     "facial_encoding": {
-                        "x": 433,
-                        "y": 116,
-                        "w": 37,
-                        "h": 58
+                        "x": 100,
+                        "y": 134,
+                        "w": 41,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -11964,10 +11964,10 @@
                 {
                     "roi_num": "frame_0330_00",
                     "facial_encoding": {
-                        "x": 108,
-                        "y": 136,
-                        "w": 40,
-                        "h": 63
+                        "x": 426,
+                        "y": 123,
+                        "w": 38,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -11988,10 +11988,10 @@
                 {
                     "roi_num": "frame_0330_01",
                     "facial_encoding": {
-                        "x": 426,
-                        "y": 123,
-                        "w": 38,
-                        "h": 56
+                        "x": 108,
+                        "y": 136,
+                        "w": 40,
+                        "h": 63
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -12229,10 +12229,10 @@
                 {
                     "roi_num": "frame_0337_00",
                     "facial_encoding": {
-                        "x": 107,
-                        "y": 134,
-                        "w": 38,
-                        "h": 57
+                        "x": 435,
+                        "y": 127,
+                        "w": 33,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -12253,10 +12253,10 @@
                 {
                     "roi_num": "frame_0337_01",
                     "facial_encoding": {
-                        "x": 435,
-                        "y": 127,
-                        "w": 33,
-                        "h": 54
+                        "x": 107,
+                        "y": 134,
+                        "w": 38,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -12501,10 +12501,10 @@
                 {
                     "roi_num": "frame_0345_00",
                     "facial_encoding": {
-                        "x": 105,
-                        "y": 132,
-                        "w": 41,
-                        "h": 59
+                        "x": 428,
+                        "y": 123,
+                        "w": 39,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -12525,10 +12525,10 @@
                 {
                     "roi_num": "frame_0345_01",
                     "facial_encoding": {
-                        "x": 428,
-                        "y": 123,
-                        "w": 39,
-                        "h": 53
+                        "x": 105,
+                        "y": 132,
+                        "w": 41,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -12735,10 +12735,10 @@
                 {
                     "roi_num": "frame_0351_00",
                     "facial_encoding": {
-                        "x": 109,
-                        "y": 133,
+                        "x": 420,
+                        "y": 122,
                         "w": 39,
-                        "h": 61
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -12759,10 +12759,10 @@
                 {
                     "roi_num": "frame_0351_01",
                     "facial_encoding": {
-                        "x": 420,
-                        "y": 122,
+                        "x": 109,
+                        "y": 133,
                         "w": 39,
-                        "h": 56
+                        "h": 61
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -12821,10 +12821,10 @@
                 {
                     "roi_num": "frame_0353_00",
                     "facial_encoding": {
-                        "x": 101,
-                        "y": 133,
-                        "w": 43,
-                        "h": 59
+                        "x": 438,
+                        "y": 121,
+                        "w": 37,
+                        "h": 57
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "happy",
@@ -12845,10 +12845,10 @@
                 {
                     "roi_num": "frame_0353_01",
                     "facial_encoding": {
-                        "x": 438,
-                        "y": 121,
-                        "w": 37,
-                        "h": 57
+                        "x": 101,
+                        "y": 133,
+                        "w": 43,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -13210,10 +13210,10 @@
                 {
                     "roi_num": "frame_0364_00",
                     "facial_encoding": {
-                        "x": 97,
-                        "y": 134,
-                        "w": 41,
-                        "h": 60
+                        "x": 432,
+                        "y": 126,
+                        "w": 39,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -13234,10 +13234,10 @@
                 {
                     "roi_num": "frame_0364_01",
                     "facial_encoding": {
-                        "x": 432,
-                        "y": 126,
-                        "w": 39,
-                        "h": 54
+                        "x": 97,
+                        "y": 134,
+                        "w": 41,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -13296,10 +13296,10 @@
                 {
                     "roi_num": "frame_0366_00",
                     "facial_encoding": {
-                        "x": 82,
-                        "y": 129,
-                        "w": 42,
-                        "h": 60
+                        "x": 429,
+                        "y": 128,
+                        "w": 32,
+                        "h": 49
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -13320,10 +13320,10 @@
                 {
                     "roi_num": "frame_0366_01",
                     "facial_encoding": {
-                        "x": 429,
-                        "y": 128,
-                        "w": 32,
-                        "h": 49
+                        "x": 82,
+                        "y": 129,
+                        "w": 42,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -13530,10 +13530,10 @@
                 {
                     "roi_num": "frame_0372_00",
                     "facial_encoding": {
-                        "x": 109,
-                        "y": 131,
-                        "w": 40,
-                        "h": 60
+                        "x": 430,
+                        "y": 123,
+                        "w": 39,
+                        "h": 58
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -13554,10 +13554,10 @@
                 {
                     "roi_num": "frame_0372_01",
                     "facial_encoding": {
-                        "x": 430,
-                        "y": 123,
-                        "w": 39,
-                        "h": 58
+                        "x": 109,
+                        "y": 131,
+                        "w": 40,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -13984,10 +13984,10 @@
                 {
                     "roi_num": "frame_0384_00",
                     "facial_encoding": {
-                        "x": 92,
-                        "y": 133,
-                        "w": 45,
-                        "h": 53
+                        "x": 417,
+                        "y": 126,
+                        "w": 37,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -14008,10 +14008,10 @@
                 {
                     "roi_num": "frame_0384_01",
                     "facial_encoding": {
-                        "x": 417,
-                        "y": 126,
-                        "w": 37,
-                        "h": 54
+                        "x": 92,
+                        "y": 133,
+                        "w": 45,
+                        "h": 53
                     },
                     "person_classified": "unknown"
                 }
@@ -15092,10 +15092,10 @@
                 {
                     "roi_num": "frame_0418_00",
                     "facial_encoding": {
-                        "x": 128,
+                        "x": 408,
                         "y": 124,
                         "w": 36,
-                        "h": 59
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -15116,10 +15116,10 @@
                 {
                     "roi_num": "frame_0418_01",
                     "facial_encoding": {
-                        "x": 408,
+                        "x": 128,
                         "y": 124,
                         "w": 36,
-                        "h": 51
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -15147,10 +15147,10 @@
                 {
                     "roi_num": "frame_0419_00",
                     "facial_encoding": {
-                        "x": 135,
-                        "y": 138,
-                        "w": 41,
-                        "h": 52
+                        "x": 407,
+                        "y": 123,
+                        "w": 38,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -15171,10 +15171,10 @@
                 {
                     "roi_num": "frame_0419_01",
                     "facial_encoding": {
-                        "x": 407,
-                        "y": 123,
-                        "w": 38,
-                        "h": 55
+                        "x": 135,
+                        "y": 138,
+                        "w": 41,
+                        "h": 52
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -15264,10 +15264,10 @@
                 {
                     "roi_num": "frame_0422_00",
                     "facial_encoding": {
-                        "x": 400,
-                        "y": 128,
-                        "w": 37,
-                        "h": 54
+                        "x": 105,
+                        "y": 115,
+                        "w": 44,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -15288,10 +15288,10 @@
                 {
                     "roi_num": "frame_0422_01",
                     "facial_encoding": {
-                        "x": 105,
-                        "y": 115,
-                        "w": 44,
-                        "h": 59
+                        "x": 400,
+                        "y": 128,
+                        "w": 37,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -17016,10 +17016,10 @@
                 {
                     "roi_num": "frame_0472_00",
                     "facial_encoding": {
-                        "x": 131,
-                        "y": 126,
-                        "w": 39,
-                        "h": 60
+                        "x": 410,
+                        "y": 125,
+                        "w": 37,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -17040,10 +17040,10 @@
                 {
                     "roi_num": "frame_0472_01",
                     "facial_encoding": {
-                        "x": 410,
-                        "y": 125,
-                        "w": 37,
-                        "h": 53
+                        "x": 131,
+                        "y": 126,
+                        "w": 39,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "angry",
@@ -17133,10 +17133,10 @@
                 {
                     "roi_num": "frame_0475_00",
                     "facial_encoding": {
-                        "x": 422,
-                        "y": 125,
-                        "w": 38,
-                        "h": 52
+                        "x": 106,
+                        "y": 118,
+                        "w": 42,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -17157,10 +17157,10 @@
                 {
                     "roi_num": "frame_0475_01",
                     "facial_encoding": {
-                        "x": 106,
-                        "y": 118,
-                        "w": 42,
-                        "h": 57
+                        "x": 422,
+                        "y": 125,
+                        "w": 38,
+                        "h": 52
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -17188,10 +17188,10 @@
                 {
                     "roi_num": "frame_0476_00",
                     "facial_encoding": {
-                        "x": 422,
-                        "y": 124,
-                        "w": 38,
-                        "h": 52
+                        "x": 114,
+                        "y": 120,
+                        "w": 42,
+                        "h": 62
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -17212,10 +17212,10 @@
                 {
                     "roi_num": "frame_0476_01",
                     "facial_encoding": {
-                        "x": 114,
-                        "y": 120,
-                        "w": 42,
-                        "h": 62
+                        "x": 422,
+                        "y": 124,
+                        "w": 38,
+                        "h": 52
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -17756,10 +17756,10 @@
                 {
                     "roi_num": "frame_0492_00",
                     "facial_encoding": {
-                        "x": 408,
-                        "y": 124,
-                        "w": 35,
-                        "h": 57
+                        "x": 110,
+                        "y": 117,
+                        "w": 43,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -17780,10 +17780,10 @@
                 {
                     "roi_num": "frame_0492_01",
                     "facial_encoding": {
-                        "x": 110,
-                        "y": 117,
-                        "w": 43,
-                        "h": 59
+                        "x": 408,
+                        "y": 124,
+                        "w": 35,
+                        "h": 57
                     },
                     "person_classified": "unknown"
                 }
@@ -18585,9 +18585,9 @@
                 {
                     "roi_num": "frame_0519_00",
                     "facial_encoding": {
-                        "x": 136,
-                        "y": 123,
-                        "w": 42,
+                        "x": 403,
+                        "y": 125,
+                        "w": 41,
                         "h": 57
                     },
                     "person_classified": "interviewee",
@@ -18609,9 +18609,9 @@
                 {
                     "roi_num": "frame_0519_01",
                     "facial_encoding": {
-                        "x": 403,
-                        "y": 125,
-                        "w": 41,
+                        "x": 136,
+                        "y": 123,
+                        "w": 42,
                         "h": 57
                     },
                     "person_classified": "interviewer",
@@ -18689,10 +18689,10 @@
                 {
                     "roi_num": "frame_0524_00",
                     "facial_encoding": {
-                        "x": 420,
-                        "y": 118,
-                        "w": 43,
-                        "h": 53
+                        "x": 118,
+                        "y": 114,
+                        "w": 46,
+                        "h": 59
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -18713,10 +18713,10 @@
                 {
                     "roi_num": "frame_0524_01",
                     "facial_encoding": {
-                        "x": 118,
-                        "y": 114,
-                        "w": 46,
-                        "h": 59
+                        "x": 420,
+                        "y": 118,
+                        "w": 43,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -19210,6 +19210,12 @@
                 },
                 {
                     "roi_num": "frame_0537_01",
+                    "facial_encoding": {
+                        "x": 97,
+                        "y": 114,
+                        "w": 39,
+                        "h": 37
+                    },
                     "person_classified": "unknown"
                 }
             ]
@@ -19370,10 +19376,10 @@
                 {
                     "roi_num": "frame_0542_00",
                     "facial_encoding": {
-                        "x": 132,
-                        "y": 134,
-                        "w": 38,
-                        "h": 56
+                        "x": 410,
+                        "y": 138,
+                        "w": 34,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -19394,10 +19400,10 @@
                 {
                     "roi_num": "frame_0542_01",
                     "facial_encoding": {
-                        "x": 410,
-                        "y": 138,
-                        "w": 34,
-                        "h": 53
+                        "x": 132,
+                        "y": 134,
+                        "w": 38,
+                        "h": 56
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -20117,10 +20123,10 @@
                 {
                     "roi_num": "frame_0563_00",
                     "facial_encoding": {
-                        "x": 132,
-                        "y": 136,
-                        "w": 40,
-                        "h": 57
+                        "x": 397,
+                        "y": 125,
+                        "w": 35,
+                        "h": 52
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -20141,10 +20147,10 @@
                 {
                     "roi_num": "frame_0563_01",
                     "facial_encoding": {
-                        "x": 397,
-                        "y": 125,
-                        "w": 35,
-                        "h": 52
+                        "x": 132,
+                        "y": 136,
+                        "w": 40,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -20368,10 +20374,10 @@
                 {
                     "roi_num": "frame_0570_00",
                     "facial_encoding": {
-                        "x": 128,
-                        "y": 136,
-                        "w": 38,
-                        "h": 60
+                        "x": 407,
+                        "y": 126,
+                        "w": 36,
+                        "h": 57
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -20392,10 +20398,10 @@
                 {
                     "roi_num": "frame_0570_01",
                     "facial_encoding": {
-                        "x": 407,
-                        "y": 126,
-                        "w": 36,
-                        "h": 57
+                        "x": 128,
+                        "y": 136,
+                        "w": 38,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -20719,10 +20725,10 @@
                 {
                     "roi_num": "frame_0579_00",
                     "facial_encoding": {
-                        "x": 128,
-                        "y": 137,
+                        "x": 411,
+                        "y": 121,
                         "w": 38,
-                        "h": 58
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -20743,10 +20749,10 @@
                 {
                     "roi_num": "frame_0579_01",
                     "facial_encoding": {
-                        "x": 411,
-                        "y": 121,
+                        "x": 128,
+                        "y": 137,
                         "w": 38,
-                        "h": 56
+                        "h": 58
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -20960,10 +20966,10 @@
                 {
                     "roi_num": "frame_0586_00",
                     "facial_encoding": {
-                        "x": 120,
-                        "y": 132,
-                        "w": 40,
-                        "h": 57
+                        "x": 397,
+                        "y": 130,
+                        "w": 36,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -20984,10 +20990,10 @@
                 {
                     "roi_num": "frame_0586_01",
                     "facial_encoding": {
-                        "x": 397,
-                        "y": 130,
-                        "w": 36,
-                        "h": 53
+                        "x": 120,
+                        "y": 132,
+                        "w": 40,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -21462,9 +21468,9 @@
                 {
                     "roi_num": "frame_0598_00",
                     "facial_encoding": {
-                        "x": 449,
-                        "y": 115,
-                        "w": 42,
+                        "x": 110,
+                        "y": 128,
+                        "w": 45,
                         "h": 58
                     },
                     "person_classified": "interviewer",
@@ -21486,9 +21492,9 @@
                 {
                     "roi_num": "frame_0598_01",
                     "facial_encoding": {
-                        "x": 110,
-                        "y": 128,
-                        "w": 45,
+                        "x": 449,
+                        "y": 115,
+                        "w": 42,
                         "h": 58
                     },
                     "person_classified": "interviewee",
@@ -22178,10 +22184,10 @@
                 {
                     "roi_num": "frame_0618_00",
                     "facial_encoding": {
-                        "x": 132,
-                        "y": 137,
+                        "x": 391,
+                        "y": 128,
                         "w": 35,
-                        "h": 55
+                        "h": 52
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -22202,10 +22208,10 @@
                 {
                     "roi_num": "frame_0618_01",
                     "facial_encoding": {
-                        "x": 391,
-                        "y": 128,
+                        "x": 132,
+                        "y": 137,
                         "w": 35,
-                        "h": 52
+                        "h": 55
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -23189,10 +23195,10 @@
                 {
                     "roi_num": "frame_0646_00",
                     "facial_encoding": {
-                        "x": 127,
-                        "y": 129,
-                        "w": 37,
-                        "h": 54
+                        "x": 400,
+                        "y": 122,
+                        "w": 36,
+                        "h": 57
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -23213,10 +23219,10 @@
                 {
                     "roi_num": "frame_0646_01",
                     "facial_encoding": {
-                        "x": 400,
-                        "y": 122,
-                        "w": 36,
-                        "h": 57
+                        "x": 127,
+                        "y": 129,
+                        "w": 37,
+                        "h": 54
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -23392,10 +23398,10 @@
                 {
                     "roi_num": "frame_0651_00",
                     "facial_encoding": {
-                        "x": 109,
-                        "y": 124,
-                        "w": 46,
-                        "h": 58
+                        "x": 406,
+                        "y": 128,
+                        "w": 38,
+                        "h": 57
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -23416,10 +23422,10 @@
                 {
                     "roi_num": "frame_0651_01",
                     "facial_encoding": {
-                        "x": 406,
-                        "y": 128,
-                        "w": 38,
-                        "h": 57
+                        "x": 109,
+                        "y": 124,
+                        "w": 46,
+                        "h": 58
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "neutral",
@@ -23509,10 +23515,10 @@
                 {
                     "roi_num": "frame_0654_00",
                     "facial_encoding": {
-                        "x": 397,
-                        "y": 127,
-                        "w": 38,
-                        "h": 54
+                        "x": 118,
+                        "y": 126,
+                        "w": 42,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "angry",
@@ -23533,10 +23539,10 @@
                 {
                     "roi_num": "frame_0654_01",
                     "facial_encoding": {
-                        "x": 118,
-                        "y": 126,
-                        "w": 42,
-                        "h": 60
+                        "x": 397,
+                        "y": 127,
+                        "w": 38,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "happy",
@@ -23612,10 +23618,10 @@
                 {
                     "roi_num": "frame_0657_00",
                     "facial_encoding": {
-                        "x": 125,
-                        "y": 131,
-                        "w": 42,
-                        "h": 60
+                        "x": 397,
+                        "y": 128,
+                        "w": 37,
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -23636,10 +23642,10 @@
                 {
                     "roi_num": "frame_0657_01",
                     "facial_encoding": {
-                        "x": 397,
-                        "y": 128,
-                        "w": 37,
-                        "h": 51
+                        "x": 125,
+                        "y": 131,
+                        "w": 42,
+                        "h": 60
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -23729,10 +23735,10 @@
                 {
                     "roi_num": "frame_0660_00",
                     "facial_encoding": {
-                        "x": 130,
-                        "y": 136,
-                        "w": 38,
-                        "h": 57
+                        "x": 392,
+                        "y": 130,
+                        "w": 36,
+                        "h": 54
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -23753,10 +23759,10 @@
                 {
                     "roi_num": "frame_0660_01",
                     "facial_encoding": {
-                        "x": 392,
-                        "y": 130,
-                        "w": 36,
-                        "h": 54
+                        "x": 130,
+                        "y": 136,
+                        "w": 38,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -23846,10 +23852,10 @@
                 {
                     "roi_num": "frame_0663_00",
                     "facial_encoding": {
-                        "x": 124,
-                        "y": 139,
-                        "w": 40,
-                        "h": 53
+                        "x": 405,
+                        "y": 125,
+                        "w": 35,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -23870,10 +23876,10 @@
                 {
                     "roi_num": "frame_0663_01",
                     "facial_encoding": {
-                        "x": 405,
-                        "y": 125,
-                        "w": 35,
-                        "h": 54
+                        "x": 124,
+                        "y": 139,
+                        "w": 40,
+                        "h": 53
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -24025,10 +24031,10 @@
                 {
                     "roi_num": "frame_0668_00",
                     "facial_encoding": {
-                        "x": 135,
-                        "y": 134,
-                        "w": 39,
-                        "h": 54
+                        "x": 418,
+                        "y": 119,
+                        "w": 36,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -24049,10 +24055,10 @@
                 {
                     "roi_num": "frame_0668_01",
                     "facial_encoding": {
-                        "x": 418,
-                        "y": 119,
-                        "w": 36,
-                        "h": 55
+                        "x": 135,
+                        "y": 134,
+                        "w": 39,
+                        "h": 54
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -24603,10 +24609,10 @@
                 {
                     "roi_num": "frame_0684_00",
                     "facial_encoding": {
-                        "x": 438,
-                        "y": 116,
-                        "w": 39,
-                        "h": 55
+                        "x": 111,
+                        "y": 131,
+                        "w": 44,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -24627,10 +24633,10 @@
                 {
                     "roi_num": "frame_0684_01",
                     "facial_encoding": {
-                        "x": 111,
-                        "y": 131,
-                        "w": 44,
-                        "h": 57
+                        "x": 438,
+                        "y": 116,
+                        "w": 39,
+                        "h": 55
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -24806,10 +24812,10 @@
                 {
                     "roi_num": "frame_0689_00",
                     "facial_encoding": {
-                        "x": 118,
-                        "y": 125,
-                        "w": 43,
-                        "h": 58
+                        "x": 391,
+                        "y": 127,
+                        "w": 35,
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -24830,10 +24836,10 @@
                 {
                     "roi_num": "frame_0689_01",
                     "facial_encoding": {
-                        "x": 391,
-                        "y": 127,
-                        "w": 35,
-                        "h": 51
+                        "x": 118,
+                        "y": 125,
+                        "w": 43,
+                        "h": 58
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -25365,10 +25371,10 @@
                 {
                     "roi_num": "frame_0704_00",
                     "facial_encoding": {
-                        "x": 110,
-                        "y": 132,
-                        "w": 42,
-                        "h": 58
+                        "x": 394,
+                        "y": 126,
+                        "w": 37,
+                        "h": 56
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "fear",
@@ -25389,10 +25395,10 @@
                 {
                     "roi_num": "frame_0704_01",
                     "facial_encoding": {
-                        "x": 394,
-                        "y": 126,
-                        "w": 37,
-                        "h": 56
+                        "x": 110,
+                        "y": 132,
+                        "w": 42,
+                        "h": 58
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "sad",
@@ -25754,10 +25760,10 @@
                 {
                     "roi_num": "frame_0715_00",
                     "facial_encoding": {
-                        "x": 108,
-                        "y": 133,
-                        "w": 43,
-                        "h": 59
+                        "x": 427,
+                        "y": 129,
+                        "w": 44,
+                        "h": 47
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -25778,10 +25784,10 @@
                 {
                     "roi_num": "frame_0715_01",
                     "facial_encoding": {
-                        "x": 427,
-                        "y": 129,
-                        "w": 44,
-                        "h": 47
+                        "x": 108,
+                        "y": 133,
+                        "w": 43,
+                        "h": 59
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "angry",
@@ -26043,10 +26049,10 @@
                 {
                     "roi_num": "frame_0722_00",
                     "facial_encoding": {
-                        "x": 121,
-                        "y": 140,
-                        "w": 37,
-                        "h": 57
+                        "x": 399,
+                        "y": 128,
+                        "w": 35,
+                        "h": 54
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -26067,10 +26073,10 @@
                 {
                     "roi_num": "frame_0722_01",
                     "facial_encoding": {
-                        "x": 399,
-                        "y": 128,
-                        "w": 35,
-                        "h": 54
+                        "x": 121,
+                        "y": 140,
+                        "w": 37,
+                        "h": 57
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "fear",
@@ -26129,10 +26135,10 @@
                 {
                     "roi_num": "frame_0724_00",
                     "facial_encoding": {
-                        "x": 397,
-                        "y": 131,
-                        "w": 35,
-                        "h": 53
+                        "x": 107,
+                        "y": 141,
+                        "w": 37,
+                        "h": 52
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "angry",
@@ -26153,10 +26159,10 @@
                 {
                     "roi_num": "frame_0724_01",
                     "facial_encoding": {
-                        "x": 107,
-                        "y": 141,
-                        "w": 37,
-                        "h": 52
+                        "x": 397,
+                        "y": 131,
+                        "w": 35,
+                        "h": 53
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -26690,10 +26696,10 @@
                 {
                     "roi_num": "frame_0739_00",
                     "facial_encoding": {
-                        "x": 103,
-                        "y": 134,
-                        "w": 43,
-                        "h": 55
+                        "x": 397,
+                        "y": 130,
+                        "w": 34,
+                        "h": 51
                     },
                     "person_classified": "interviewee",
                     "emotion_classified": "sad",
@@ -26714,10 +26720,10 @@
                 {
                     "roi_num": "frame_0739_01",
                     "facial_encoding": {
-                        "x": 397,
-                        "y": 130,
-                        "w": 34,
-                        "h": 51
+                        "x": 103,
+                        "y": 134,
+                        "w": 43,
+                        "h": 55
                     },
                     "person_classified": "interviewer",
                     "emotion_classified": "neutral",
