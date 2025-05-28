@@ -1,7 +1,9 @@
+# Importing packages used throughout each of the below functions
 import os
 import json
 import shutil
 
+# Function which clears a specified folder
 def clear_folder(folderName):
     try:
         #Iterating through the files in the folder
@@ -21,6 +23,7 @@ def clear_folder(folderName):
     else:
         print("Folder cleared")
 
+# Function that checks if a specified data file exists
 def check_if_data_file_exists(vid_name):
     vid_data_full_path = os.path.join('data', 'video_data')
     if not os.path.exists(vid_data_full_path):
