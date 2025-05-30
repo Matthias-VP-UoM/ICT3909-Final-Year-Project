@@ -106,4 +106,4 @@ The contents of the provided zip files should be extracted and placed in the wor
 
 ## Important Note
 
-This was developed as part of the <b><i>ARI3333</i></b> study unit, which is titled <b><i>Final Year Project in Artificial Intelligence</i></b>. The project was submitted in partial fulfilment of the requirements for the B.Sc. in IT (Honours) (Artificial Intelligence) course at the University of Malta.
+This was developed as part of the <b><i>ICT3909</i></b> study unit, which is titled <b><i>Final Year Project in Artificial Intelligence</i></b>. The project was submitted in partial fulfilment of the requirements for the B.Sc. in IT (Honours) (Artificial Intelligence) course at the University of Malta.
