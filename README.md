@@ -67,8 +67,8 @@ This project primarily makes use of the following technologies in its implementa
 - **4.1 - visualisation_create_table.ipynb** - Converts the generated analysis results from a given video from JSON to CSV and utilises them to visualise the results.
 - **4.2 - visualisation_load_table.ipynb** - Similar to the above file but loads an already created CSV file instead of creating one from scratch.
 - **4.3 - frame_analysis.ipynb** - Provides a visual feedback of the video analysis results by inserting them into individual video frames.
-- **common_functionality.ipynb** - Contains any common functionality that is used throughout the code provided.
-- **face_rec.ipynb** - Used to load and preprocess images (taken from the face_recognition Python package, which is included in the requirements.txt file)
+- **common_functionality.py** - Contains any common functionality that is used throughout the code provided.
+- **face_rec.py** - Used to load and preprocess images (taken from the face_recognition Python package, which is included in the requirements.txt file)
 
 ## Ethics & Data Usage
 
